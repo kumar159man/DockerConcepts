@@ -1,0 +1,8 @@
+How to set up a docker?
+This is for setting up  docker in linux. docker can be installed through package manager, In order to get the latest version use shell script provided at https://get.docker.com/
+
+first step is open the link in browser then open terminal
+1. Run:- curl -fsSL https://get.docker.com -o get-docker.sh
+2. Run:- sh get-docker.sh
+
+After setting up docker add your user to docker group by issuing 
